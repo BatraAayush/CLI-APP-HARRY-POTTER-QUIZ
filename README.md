@@ -4,7 +4,7 @@ A CLI app created online on repl.it. </br>
 An intresting quiz based on Harry Potter series.</br>
 Visit to see Project => [Harry Potter Quiz](https://repl.it/@aayushbatra/Harry-potter-quiz?embed=1&output=1)
 
-## TECHSTACK USED
+## Techstack Used
 1. Javascript
 2. Chalk
 
